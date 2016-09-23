@@ -1,18 +1,11 @@
 ##相关资源
 
-* 开发群：一群（452137839）二群（160108745）
+* 开发群：一群（387186317）
 
 * 开发工具 v0.7
-	* 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
-	* 360: https://yunpan.cn/ckvTYFHWzYYFV （提取码：e09b）
-
 * 开发工具 v0.9
-  * 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
-  * 360: https://yunpan.cn/ckvXjEbnFYMSC （提取码：f9ca）
-
 * Demo源代码
-  * 百度: https://pan.baidu.com/s/1o8hJFuU （密码: bsky）
-  * 360: https://yunpan.cn/ckvXAacJjvsgR （提取码：3327）
+ 链接：http://pan.baidu.com/s/1eS4uAGE 密码：hlht
 
 ##破解步骤
 
